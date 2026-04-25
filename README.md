@@ -1,2 +1,2 @@
-# solu-oesbinarias
+# solucoesbinarias
 Investimentos Ax 
