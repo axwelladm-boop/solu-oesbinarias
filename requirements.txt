@@ -4,4 +4,3 @@ pandas==1.5.3
 pandas-ta==0.3.14b
 numpy==1.24.4
 plotly==5.20.0
- 
